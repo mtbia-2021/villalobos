@@ -1,0 +1,3 @@
+un arxiu dit txt 
+dins
+# una carpeta dita carpeta
